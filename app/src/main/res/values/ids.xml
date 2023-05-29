@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextEmailAddress" type="id" />
+    <item name="editTextTextPostalAddress" type="id" />
+    <item name="editTextPhone" type="id" />
+    <item name="mapview" type="id" />
+    <item name="button" type="id" />
+    <item name="text_title" type="id" />
+    <item name="edit_email" type="id" />
+    <item name="edit_phone" type="id" />
+    <item name="edit_postal_code" type="id" />
+    <item name="map_view" type="id" />
+    <item name="btn_confirm" type="id" />
+</resources>
